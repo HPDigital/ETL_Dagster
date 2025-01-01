@@ -74,9 +74,3 @@ Las contribuciones son bienvenidas. Por favor, abre un issue primero para discut
 ## 📝 Licencia
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
-## 📞 Contacto
-
-[Tu Nombre] - [tu@email.com]
-
-Link del proyecto: https://github.com/[tu-usuario]/lagos-sudamerica-etl
